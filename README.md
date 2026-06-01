@@ -39,12 +39,16 @@ End-to-end ML pipelines on 10K+ sample datasets with feature engineering and mod
 
 Languages:
 Python Java C C++ C# JavaScript (ES6+)
+
 Web & Backend:
 React.js Node.js Express.js REST APIs Spring Boot .NET
+
 Databases & Caching:
 MySQL Oracle MongoDB Firebase Redis
+
 Cloud & DevOps:
 AWS GCP Jenkins Git
+
 Enterprise:
 Pega PRPC Pega Constellation Agile/Scrum
 
