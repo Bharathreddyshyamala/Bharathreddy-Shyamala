@@ -3,6 +3,7 @@ Hi, I'm Bharath 👋
 I'm a Computer Science graduate student at the University of South Florida and a former Applications Engineer at Pegasystems, with 2+ years of experience building enterprise-grade BPM solutions and full-stack applications.
 
 🎓 Education
+
 M.S. Computer Science — University of South Florida, Tampa FL (Aug 2024 – May 2026)
 
 💼 Experience
@@ -15,6 +16,7 @@ Delivered a BCBS proof-of-concept on Pega Constellation, reducing production def
 
 
 🚀 Featured Projects
+
 🤖 AI-Powered Multi-Agent Interview Simulation Platform
 
 Python · FastAPI · React.js · Node.js · MongoDB · OpenAI API
